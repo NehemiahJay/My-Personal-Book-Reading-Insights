@@ -1,7 +1,7 @@
 # Personal Reading Habit Analysis
 
 **Tool:** Excel · **Type:** Personal Analytics, Data Visualization, Dashboard Design
-**Author:** Nehemiah — [LinkedIn](https://www.linkedin.com/in/nehemiahjibrin) · [Notion Portfolio](#) · Repo: https://github.com/NehemiahJay/My-Personal-Book-Reading-Insights
+**Author:** Nehemiah — [LinkedIn](https://www.linkedin.com/in/nehemiahjibrin) · [Notion Portfolio](https://app.notion.com/p/Data-Analytics-Portfolio-Nehemiah-Jibrin-3b92ffc8dac380c2a2c0c71619a6402b?source=copy_link) · Repo: https://github.com/NehemiahJay/My-Personal-Book-Reading-Insights
 
 ---
 
